@@ -34,7 +34,7 @@ I've acquired a lot of basic knowledge with :
 
 <h3 align="left">🖥 Display</h3>
 
-To see the page : <link>LaOuede.github.io/Landing-page</link>
+To see the page, go to [LaOuede.github.io/Landing-page](https://laouede.github.io/Landing-page/) !
 
 <img width="1005" alt="Screen Shot 2024-06-04 at 1 57 11 PM" src="https://github.com/LaOuede/Landing-page/assets/114024436/6a27a6f2-e679-48d6-9c4e-637b3818556a">
 
