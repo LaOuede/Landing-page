@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png" />
+  <img src="https://github.com/LaOuede/Landing-page/blob/main/images/landing-page.png" width="90"/>
 </p>
 
 
