@@ -5,7 +5,7 @@
 <h1 align=center>Landing page</h1>
 
 <p align="center">
-  To see the page, <a href="https://laouede.github.io/Landing-page/">click here</a>!
+  <a href="https://laouede.github.io/Landing-page/">Live demo here</a>
 </p>
 
 <p align=center>
